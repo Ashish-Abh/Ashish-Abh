@@ -1,4 +1,4 @@
-<h1> Hi there 👋 I'm Ashish Bhattarai <br/><a href="https://github.com/Ashish-Abh">Cyber Security Researcher</a>, <a href="https://www.linkedin.com/in/ashish-bhattarai-25559014b/">Cybersecurity Professional</a>
+<h1> Hi there 👋 I'm Ashish Bhattarai <br/><a href="https://github.com/Ashish-Abh">Cybersecurity Researcher</a>, <a href="https://www.linkedin.com/in/ashish-bhattarai-25559014b/">Cybersecurity Professional</a>
 
 <h2>🏆Certificates and Courses📖:</h2>
 
