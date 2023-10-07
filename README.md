@@ -22,7 +22,7 @@
 <h2>📰 Cyber Security Research Articles:</h2>
 
   - [Case Study of Colonial Pipeline Ransomware Attack](https://github.com/Ashish-Abh)
-  - [Manufacturing Sector Threat Analysis and Cybersecurity Function Set-up](https://github.com/Ashish-Abh)
+  - [Manufacturing Sector Cyber Threats and Best Practices](https://medium.com/@bhattarai.abh/manufacturing-sector-cyber-threats-and-best-practices-f0a6b8f0840f)
   - [Cyber Risk Analysis of Manufacturing Sector](https://github.com/Ashish-Abh)
   - [A Business Report on Changing Threat Landscape in Financial Sector ](https://github.com/Ashish-Abh)
     
