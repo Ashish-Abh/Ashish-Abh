@@ -2,10 +2,10 @@
 
 <h2>🏆Certificates and Courses📖:</h2>
 
-- [ICS2 Certified in Cybersecurity (CC)](https://github.com/Ashish-Abh)
-- [Google Cybersecyrity Certificate](https://github.com/Ashish-Abh)
-- [Qualys VMDR](https://github.com/Ashish-Abh)
-- [Certified Scrum Master (SCM)](https://github.com/Ashish-Abh)
+- [ICS2 Certified in Cybersecurity (CC)](https://www.credly.com/badges/2d43f418-9e1b-4a64-a84b-c88316bd5267/public_url)
+- [Google Cybersecurity Certificate](https://www.credly.com/badges/5a42bf1e-83d8-4cd9-9470-ebf63b15dd5c/public_url)
+- [Qualys VMDR](https://drive.google.com/file/d/1m-BiDic4TF_LwTiWtg3nn6zaYOoThqkG/view?usp=sharing)
+- [Certified Scrum Master (SCM)](https://bcert.me/bc/html/show-badge.html?b=taamdfaf)
  
 
 <h2>🛡️🌐Cyber Security Projects👨‍💻:</h2>
