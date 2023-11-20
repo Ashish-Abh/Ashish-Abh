@@ -19,7 +19,7 @@
 - <b>Setting up FIM System</b>
   - [Setting up a File Integrity Monitoring (FIM) System to check for unauthorised changes](https://github.com/Ashish-Abh)
 
-<h2>📰 Cyber Security Research Articles:</h2>
+<h2>📰 Cyber Security Research Articles: </h2>
 
   - [Case Study of Colonial Pipeline Ransomware Attack](https://github.com/Ashish-Abh)
   - [Manufacturing Sector Cyber Threats and Best Practices](https://medium.com/@bhattarai.abh/manufacturing-sector-cyber-threats-and-best-practices-f0a6b8f0840f)
