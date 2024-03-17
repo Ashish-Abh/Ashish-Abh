@@ -10,14 +10,8 @@
 
 <h2>🛡️🌐Cyber Security Projects👨‍💻:</h2>
 
-- <b>Active Directory Home Lab</b>
-  - [Setting up Active Directory in a Virtual Machine](https://github.com/Ashish-Abh)
-- <b>Active Directory Attack</b>
-  - [Breaking into Active Directory created in Lab](https://github.com/Ashish-Abh)
-- <b>Qualys VMDR</b>
-  - [Configuring Qualys VMDR application for Vulnerability Management](https://github.com/Ashish-Abh)
-- <b>Setting up FIM System</b>
-  - [Setting up a File Integrity Monitoring (FIM) System to check for unauthorised changes](https://github.com/Ashish-Abh)
+- <b>Bash Project</b>
+  - [Exercism's Bash Problems](https://github.com/Ashish-Abh/Exercism_Bash_Problems/tree/main)
 
 <h2>📰 Cyber Security Research Articles: </h2>
 
