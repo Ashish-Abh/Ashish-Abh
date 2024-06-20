@@ -13,6 +13,7 @@
 
 - <b>Bash Project</b>
   - [Exercism's Bash Problems](https://github.com/Ashish-Abh/Exercism_Bash_Problems/tree/main)
+  - [Python Scripts to Automate cybersecurity tasks](https://github.com/Ashish-Abh/Python_Scripts)
 
 <h2>📰 Cyber Security Research Articles: </h2>
 
