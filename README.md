@@ -23,6 +23,6 @@
   - [A Business Report on Changing Threat Landscape in Financial Sector ](https://github.com/Ashish-Abh)
     
 <h2>🔗Connect with me:</h2>
-[LinkedIn](https://www.linkedin.com/in/ashish-bhattarai-25559014b/)
+[LinkedIn](https://www.linkedin.com/in/ashish-abh/)
 
 
